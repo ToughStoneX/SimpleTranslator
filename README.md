@@ -5,4 +5,8 @@
 
 # 目录说明
  1. **src**：源码，配置好相关python环境后运行main.py即可打开软件；
- 2. **dist**：我在几个系统下打包好了软件，请自行选择对应的系统版本。分别有：Win10 64位、Win7 32位、Ubuntu 64位。
+ 2. **pic**：软件运行截图。
+
+# 软件下载
+分别在win10_64位、win7_32位、Ubuntu_64位下打包了软件，可以到下面链接中下载：
+https://github.com/ToughStoneX/SimpleTranslator/releases
